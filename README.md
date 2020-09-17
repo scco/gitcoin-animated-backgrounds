@@ -1,8 +1,6 @@
 # Gitcoin Animated Backgrounds
 
 Embedable as background see demo.html & demo.css
-+ Little demo how to easy center an object inside this div.
-
 
 
 ## Blue Rain
