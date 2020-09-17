@@ -6,6 +6,6 @@ Embedable as background see demo.html & demo.css
 ## Blue Rain
  
 ![animation](assets/background_blue_rain_animated.svg)
-10kb
+9kb
 
 
